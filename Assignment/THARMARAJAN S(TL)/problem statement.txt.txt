@@ -1,0 +1,6 @@
+PROBLEM  STATEMENT  :
+		Containment Zone Alerting Application is the process that alert a people of the Covid-19 containment zones and 
+prevent trespassing into these zones. This application updates the locations of the areas in a Google map which are identified to be the containment zones. 
+Recently, several containment zones had been identified throughout the country and divided into red, orange and green zones. The red zones indicate the infection  
+hotspots, orange zones denote some infection and green zones indicate an area with no infection. The application also notifies the users if they have entered a 
+containment zone and uploads the user’s IMEI number to the online database. So, people can get awareness about a current containment zone throughout the notification.
